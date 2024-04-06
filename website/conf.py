@@ -25,7 +25,7 @@ SITE_URL = "https://emmettmcdow.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://emmettmcdow.github.io/"
 BLOG_EMAIL = "emmett.mcdow@gmail.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "Tech stuff and other ramblings"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -156,7 +156,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "kiss"
+THEME = "jidn"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -1407,8 +1407,24 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    "JIDN": {BLOG_AUTHOR: {   # Or "Given Surname" for alternate authors
+            "image": "https://avatars.githubusercontent.com/u/24411516?v=4",
 
+            ## The following are all individually optional
+            "email": BLOG_EMAIL,  # or something else for alternate authors
+            "bio": """I like reading and writing all kinds of things.""",
+            "map": "Sunnyvale, CA  USA",
+            "social": (
+                "https://github.com/emmettmcdow",
+                "http://linkedin.com/emmettmcdow"
+                # You get the idea
+                )
+            }
+            # Add any needed alternate authors
+        },
+    "JIDN-THEME": "theme-base-green"
+}
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered

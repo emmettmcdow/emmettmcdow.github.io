@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Emmett McDow
 -->
 
 # TL;DR

@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1708224989.700135
+_modified_time = 1712428795.627981
 _enable_loop = True
-_template_filename = 'themes/kiss/templates/index_helper.tmpl'
+_template_filename = '/Users/eman/Documents/emmettmcdow.github.io/site/lib/python3.11/site-packages/nikola/data/themes/base/templates/index_helper.tmpl'
 _template_uri = 'index_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['html_pager', 'mathjax_script']
@@ -39,27 +39,26 @@ def render_body(context,**pageargs):
 def render_html_pager(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        nextlink = context.get('nextlink', UNDEFINED)
         prevlink = context.get('prevlink', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
+        nextlink = context.get('nextlink', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if prevlink or nextlink:
-            __M_writer('        <section class="section">\n        <div class="container">\n            <nav class="level is-mobile">\n            <div class="level-left">\n                <div class="level-item">\n')
+            __M_writer('        <nav class="postindexpager">\n        <ul class="pager">\n')
             if prevlink:
-                __M_writer('                        <a class="button" href="')
+                __M_writer('            <li class="previous">\n                <a href="')
                 __M_writer(str(prevlink))
                 __M_writer('" rel="prev">')
                 __M_writer(str(messages("Newer posts")))
-                __M_writer('</a>\n')
-            __M_writer('                </div>\n            </div>\n            <div class="level-right is-marginless">\n                <div class="level-item">\n')
+                __M_writer('</a>\n            </li>\n')
             if nextlink:
-                __M_writer('                        <a class="button" href="')
+                __M_writer('            <li class="next">\n                <a href="')
                 __M_writer(str(nextlink))
                 __M_writer('" rel="next">')
                 __M_writer(str(messages("Older posts")))
-                __M_writer('</a>\n')
-            __M_writer('                </div>\n            </div>\n            </nav>\n        </div>\n        </section>\n')
+                __M_writer('</a>\n            </li>\n')
+            __M_writer('        </ul>\n        </nav>\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -80,6 +79,6 @@ def render_mathjax_script(context,posts):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/kiss/templates/index_helper.tmpl", "uri": "index_helper.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "31": 2, "32": 26, "33": 31, "39": 3, "46": 3, "47": 4, "48": 5, "49": 10, "50": 11, "51": 11, "52": 11, "53": 11, "54": 11, "55": 13, "56": 17, "57": 18, "58": 18, "59": 18, "60": 18, "61": 18, "62": 20, "68": 29, "73": 29, "74": 30, "75": 30, "81": 75}}
+{"filename": "/Users/eman/Documents/emmettmcdow.github.io/site/lib/python3.11/site-packages/nikola/data/themes/base/templates/index_helper.tmpl", "uri": "index_helper.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "31": 2, "32": 20, "33": 25, "39": 3, "46": 3, "47": 4, "48": 5, "49": 7, "50": 8, "51": 9, "52": 9, "53": 9, "54": 9, "55": 12, "56": 13, "57": 14, "58": 14, "59": 14, "60": 14, "61": 17, "67": 23, "72": 23, "73": 24, "74": 24, "80": 74}}
 __M_END_METADATA
 """

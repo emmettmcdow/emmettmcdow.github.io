@@ -38,7 +38,7 @@ In this article, you will explore with me as I try to deduce my way to the botto
 # First Iteration - "Analog" Gears
 
 ![Analog Gears - First Iteration](/images/fixed/analog.gif)
-I started by building a simulator of bicycle gears in Processing. Here we have the platonic ideal of a bicycle crankset. The rate at which the chainring (right gear) spins influences the rate at which the cog (right gear) is proportional to their relative number of teeth. 
+I started by building a simulator of bicycle gears in Processing. Here we have the platonic ideal of a bicycle crankset. The rate at which the chainring (right gear) spins influences the rate at which the cog (left gear) is proportional to their relative number of teeth. 
 
 Only one problem here. Looking at these gears doesn't tell me much more than if I simply took my bike and looked at *its* gears. There is too much going on here.
 

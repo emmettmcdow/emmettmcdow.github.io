@@ -18,7 +18,7 @@ I've recently picked up a new hobby: riding fixed gear bicycles, or fixies for s
 2. A fixed rear gear. If the chain moves, so does the wheel.
 3. As few brakes as possible.
 
-Why, would a person want to ride such a bike? Because it's cool. It's the four way lovechild between the skateboarding community, manual transmission cars, bicycles, and any form of self-inflicted pain(read: running, ice baths). 
+Why would a person want to ride such a bike? Because it's cool. It's the four way lovechild between the skateboarding community, manual transmission cars, bicycles, and any form of self-inflicted pain(read: running, ice baths). 
 
 Because most fixed gear riders try to install as few brakes as possible, the first thing a fixed gear rider learns is how to stop. One of the major ways of stopping is "skidding". This is where you lean forward and lock out your legs. Which causes the back wheel to stop moving and "skid" on the pavement. Thereby slowing down the bike and its rider. 
 

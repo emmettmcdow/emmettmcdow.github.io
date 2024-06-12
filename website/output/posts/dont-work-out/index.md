@@ -26,7 +26,7 @@ Throughout college and my first couple years in the workforce I have been quite 
 
 
 ## Taking a break
-The injury I sustained required almost two months of non-running from me. I took this opportunity to utilize my time differently: Read more books, learn Spanish, (another activity). I noticed that over time my motivation grew. I felt the urge to build things and try new things. These are sensations I was not a stranger to but I had not experienced since the last time I felt under-challenged, which, for me, was somewhere in high school.
+The injury I sustained required almost two months of non-running from me. I took this opportunity to utilize my time differently: Read more books, learn Spanish, build cool software. I noticed that over time my motivation grew. I felt the urge to build things and try new things. These are sensations I was not a stranger to but I had not experienced since the last time I felt under-challenged, which, for me, was somewhere in high school.
 
 
 ## Taking stock

@@ -18,7 +18,7 @@
 
 
 ## Introduction
-If you want to further yourself in a way that requires creativity, such as starting founding a startup or becoming an artist, stop working out.  If you spend hours every week in a gym, it will leave you happy, healthy, and unfortunately, complacent. Vigorous exercise will suck the motivation and spark of inspiration from you. This is heterodox thinking, especially within the context of the grindset(1) subculture. But extraordinary results require uncommon thinking.
+If you want to further yourself in a way that requires creativity, such as founding a startup or becoming an artist, stop working out.  If you spend hours every week in a gym, it will leave you happy, healthy, and unfortunately, complacent. Vigorous exercise will suck the motivation and spark of inspiration from you. This is heterodox thinking, especially within the context of the grindset(1) subculture. But extraordinary results require uncommon thinking.
 
 
 ## My Story

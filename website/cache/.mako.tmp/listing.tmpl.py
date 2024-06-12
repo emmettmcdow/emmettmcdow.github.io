@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1718209258.512458
+_modified_time = 1718209542.029276
 _enable_loop = True
 _template_filename = '/Users/eman/Documents/emmettmcdow.github.io/site/lib/python3.11/site-packages/nikola/data/themes/base/templates/listing.tmpl'
 _template_uri = 'listing.tmpl'
@@ -32,14 +32,14 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         files = context.get('files', UNDEFINED)
         folders = context.get('folders', UNDEFINED)
-        code = context.get('code', UNDEFINED)
+        ui = _mako_get_namespace(context, 'ui')
+        messages = context.get('messages', UNDEFINED)
         source_link = context.get('source_link', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
-        crumbs = context.get('crumbs', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         title = context.get('title', UNDEFINED)
-        ui = _mako_get_namespace(context, 'ui')
+        crumbs = context.get('crumbs', UNDEFINED)
+        code = context.get('code', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -58,14 +58,14 @@ def render_content(context,**pageargs):
     try:
         files = context.get('files', UNDEFINED)
         folders = context.get('folders', UNDEFINED)
-        code = context.get('code', UNDEFINED)
+        ui = _mako_get_namespace(context, 'ui')
+        messages = context.get('messages', UNDEFINED)
         source_link = context.get('source_link', UNDEFINED)
         def content():
             return render_content(context)
-        crumbs = context.get('crumbs', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         title = context.get('title', UNDEFINED)
-        ui = _mako_get_namespace(context, 'ui')
+        crumbs = context.get('crumbs', UNDEFINED)
+        code = context.get('code', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(ui.breadcrumbs(crumbs)))

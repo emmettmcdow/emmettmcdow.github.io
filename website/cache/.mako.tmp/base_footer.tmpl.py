@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1716675143.622636
+_modified_time = 1718208917.154581
 _enable_loop = True
 _template_filename = '/Users/eman/Documents/emmettmcdow.github.io/site/lib/python3.11/site-packages/nikola/data/themes/base/templates/base_footer.tmpl'
 _template_uri = 'base_footer.tmpl'
@@ -28,8 +28,8 @@ def render_body(context,**pageargs):
 def render_html_footer(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        template_hooks = context.get('template_hooks', UNDEFINED)
         content_footer = context.get('content_footer', UNDEFINED)
+        template_hooks = context.get('template_hooks', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if content_footer:

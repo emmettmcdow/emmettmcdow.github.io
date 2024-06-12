@@ -14,7 +14,7 @@
 (if you want to be creative)
 
 
-> Disclaimer: this article targets those that are trying to advance themselves in some way through creativity. If you are content with your life and you aren't striving towards some internal (greater? universal?) purpose, please do keep working out.
+> Disclaimer: this article targets those that are trying to advance themselves in some way through creativity. If you are content with your life and you aren't striving towards some greater purpose, please do keep working out.
 
 
 ## Introduction

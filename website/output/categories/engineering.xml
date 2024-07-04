@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Become Unmanageable (Posts about Engineering)</title><link>https://emmettmcdow.github.io/</link><description></description><atom:link href="https://emmettmcdow.github.io/categories/engineering.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:emmett.mcdow@gmail.com"&gt;Emmett McDow&lt;/a&gt; </copyright><lastBuildDate>Thu, 04 Jul 2024 02:26:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Malone's Maxim</title><link>https://emmettmcdow.github.io/posts/malones-maxim/</link><dc:creator>Emmett McDow</dc:creator><description>&lt;p&gt;There's an episode of The Office where Kevin Malone says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why waste time say lot word when few word do trick?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Kevin's simple nature hides the true depth of the question. I, like most people, didn’t think much about this statement until I read Daniel Kahneman's &lt;em&gt;Thinking Fast and Slow&lt;/em&gt;.  In the book he states we perceive those using a wider vocabulary as less intelligent than those using a narrow vocabulary. The reason behind this is our brains associate &lt;strong&gt;understanding&lt;/strong&gt; a speaker with &lt;strong&gt;intelligence itself&lt;/strong&gt;. In other words, our brains tend to think subconsciously:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If me understand all word they say, me understand what they say. And if me understand them, they smart.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After learning about the effect word choice has on listener, I saw a connection with my day job as a software engineer. Having a wide vocabulary simply for its own sake is like building a software solution with flashy technologies simply because they’re “cool”. Engineering is not the maximization of technology, it is the use of technology to achieve a goal. Likewise communication is not the maximization of cool words. It is the maximization of transmission of ideas. &lt;/p&gt;
+&lt;p&gt;The human ability to listen is not nearly as powerful as the ability to speak. Our words should reflect this fact. Every unnecessary, unclear, or confusing word burns the fleeting attention of the listener. Sitting in silence to form your thoughts does not have this effect, and no one will think less of you for it. And now, to satisfy the rule of threes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Say less word, be less dumb.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Footnotes&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Case in point: my wife made this article much better by removing the many unnecessary prepositions. "Maybe that's why people find it hard to understand you". I love her. &lt;/li&gt;
+&lt;/ol&gt;</description><category>Communication</category><category>Engineering</category><category>Rhetoric</category><category>Speaking</category><guid>https://emmettmcdow.github.io/posts/malones-maxim/</guid><pubDate>Thu, 04 Jul 2024 02:22:54 GMT</pubDate></item></channel></rss>

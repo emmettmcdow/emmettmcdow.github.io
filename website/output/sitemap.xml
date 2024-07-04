@@ -15,19 +15,27 @@
  </url>
  <url>
   <loc>https://emmettmcdow.github.io/archive.html</loc>
-  <lastmod>2024-06-12T16:05:00Z</lastmod>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://emmettmcdow.github.io/categories/</loc>
-  <lastmod>2024-06-12T16:05:00Z</lastmod>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://emmettmcdow.github.io/categories/bikes/</loc>
   <lastmod>2024-05-25T19:09:00Z</lastmod>
  </url>
  <url>
+  <loc>https://emmettmcdow.github.io/categories/communication/</loc>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://emmettmcdow.github.io/categories/creativity/</loc>
   <lastmod>2024-06-12T16:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://emmettmcdow.github.io/categories/engineering/</loc>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://emmettmcdow.github.io/categories/exercise/</loc>
@@ -62,8 +70,16 @@
   <lastmod>2024-05-25T19:09:00Z</lastmod>
  </url>
  <url>
+  <loc>https://emmettmcdow.github.io/categories/rhetoric/</loc>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://emmettmcdow.github.io/categories/spanish/</loc>
   <lastmod>2024-02-18T02:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://emmettmcdow.github.io/categories/speaking/</loc>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://emmettmcdow.github.io/categories/writing/</loc>
@@ -80,6 +96,10 @@
  <url>
   <loc>https://emmettmcdow.github.io/posts/how-to-learn-a-foreign-language-like-a-software-engineer/</loc>
   <lastmod>2024-02-18T02:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://emmettmcdow.github.io/posts/malones-maxim/</loc>
+  <lastmod>2024-07-04T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://emmettmcdow.github.io/posts/paper-pixels-and-paper-again/</loc>

@@ -23,4 +23,4 @@ After learning about the effect word choice has on listener, I saw a connection 
 The human ability to listen is not nearly as powerful as the ability to speak. Our words should reflect this fact. Every unnecessary, unclear, or confusing word burns the fleeting attention of the listener. Sitting in silence to form your thoughts does not have this effect, and no one will think less of you for it. And now, to satisfy the rule of threes:
 > Say less word, be less dumb.
 ## Footnotes
-1.  Case in point: my wife made this article much better by removing the many unnecessary prepositions. "Maybe that's why people find it hard to understand you". I love her. 
+1.  Case in point: my wife made this article much better by removing the many unnecessary prepositions. "Maybe that's why people find it hard to understand you." I love her. 

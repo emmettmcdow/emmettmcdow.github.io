@@ -49,7 +49,7 @@ Why should we strive to make the world a better place?
 
 Firstly: we need to. We need to have the right attitude about solving the problems we face. The consequences are death. But the consequences were always death. C'est la vie.
 
-Secondly: making the world a better place includes but is not limited to rockets. It includes relatively minor actions such as returning the shopping cart to corral[5].
+Secondly: making the world a better place includes but is not limited to rockets. It includes relatively minor actions such as returning the shopping cart to the corral[5].
 
 And finally: making the world a better place takes into account the tides of progress. Setbacks are acceptable as long as we always strive for better.
 

@@ -16,7 +16,7 @@ One cannot go anywhere on tech-X(f/k/a Twitter) without seeing some variant of "
 Those e/acc guys are a fun bunch. I wish everyone was as forward looking as them. But they are a vanguard and it shows. Take these "vignettes of many worlds"[2] for example:
 ![Cocaine Capitalism](/images/world/roon.jpeg)
 
-Does that make any sense to you? Yeah, me either.
+Does that make any sense to you? Yeah, me neither.
 
 We need their energy, but it sorely needs some context within the real world. There's a now-unfashionable phrase that fits the bill.
 

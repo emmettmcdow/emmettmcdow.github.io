@@ -11,7 +11,7 @@
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/communication.xml</loc>
-  <lastmod>2024-07-04T02:24:00Z</lastmod>
+  <lastmod>2024-07-04T16:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/creativity.xml</loc>
@@ -19,11 +19,15 @@
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/engineering.xml</loc>
-  <lastmod>2024-07-04T02:24:00Z</lastmod>
+  <lastmod>2024-07-04T16:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/exercise.xml</loc>
   <lastmod>2024-06-12T16:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emmettmcdow.github.io/categories/future.xml</loc>
+  <lastmod>2024-11-13T04:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/learning.xml</loc>
@@ -55,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/rhetoric.xml</loc>
-  <lastmod>2024-07-04T02:24:00Z</lastmod>
+  <lastmod>2024-07-04T16:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/spanish.xml</loc>
@@ -63,7 +67,7 @@
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/speaking.xml</loc>
-  <lastmod>2024-07-04T02:24:00Z</lastmod>
+  <lastmod>2024-07-04T16:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/categories/writing.xml</loc>
@@ -71,10 +75,10 @@
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/rss.xml</loc>
-  <lastmod>2024-07-04T02:24:00Z</lastmod>
+  <lastmod>2024-11-13T04:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://emmettmcdow.github.io/sitemap.xml</loc>
-  <lastmod>2024-07-04T02:24:00Z</lastmod>
+  <lastmod>2024-11-13T04:46:00Z</lastmod>
  </sitemap>
 </sitemapindex>

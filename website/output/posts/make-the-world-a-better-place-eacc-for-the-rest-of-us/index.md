@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. author: Emmett McDow
 -->
 
 ![The Future Is Now Old Man](/images/world/2gi1lylqezh21.jpg)

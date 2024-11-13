@@ -1413,12 +1413,12 @@ GLOBAL_CONTEXT = {
 
             ## The following are all individually optional
             "email": BLOG_EMAIL,  # or something else for alternate authors
-            "bio": """I like reading and writing about technology. https://x.com/mcd0w""",
+            "bio": """I like reading and writing about technology. <br/><a href="https://x.com/mcd0w">@mcd0w</a><br/><a href="https://emmettmcdow.com">my REAL website</a><br/><a href="https://github.com/emmettmcdow">github</a>""",
             "map": "Sunnyvale, CA  USA",
             "social": (
                 "https://github.com/emmettmcdow",
-                "http://linkedin.com/emmettmcdow",
-                "https://x.com/mcd0w"
+                "https://linkedin.com/emmettmcdow",
+                "https://x.com/mcd0w",
                 )
             }
             # Add any needed alternate authors
